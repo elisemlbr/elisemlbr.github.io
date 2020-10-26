@@ -1,14 +1,15 @@
 /* Theme */
 
-main {
-	background: #FFEB3B;
-	color: #1E1E1E;
+main {}
+	background-image: url(jon.jpg);
+	background-position: center;
 }
 
 .icons-social a {
-	color: #1E1E1E;
+	color: #fafafa;
 }
 
 .icons-social a svg path{
-	fill: #1E1E1E;
+	fill: #fafafa
+	;
 }
