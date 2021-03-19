@@ -1,14 +1,21 @@
 /* Theme */
 
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
 main {
-	background-image: url(pb1.jpg);
+	background-image: url(pb1.png);
 	background-position: center;
+	background-repeat: no-repeat;
+	color: #d4feffe7;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 600;
+	font-size: 7 rem;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: #fff7e1;
 }
 
 .icons-social a svg path{
-	fill: #FAFAFA;
+	fill: #fff7e1;
 }
